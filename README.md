@@ -7,4 +7,5 @@
 - 🌱 I'm currently learning Mobile App Development.
 - 📫 You can reach me at bhmd0595@gmail.com or connect with me on linkedin through .
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermelaDemeke&show_icons=true&theme=radical)
+<img alt="my stats" src = "https://github-readme-stats.vercel.app/api?username=HermelaDemeke&show_icons=true&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermelaDemeke&layout=compact)](https://github.com/HermelaDemeke/github-readme-stats)
